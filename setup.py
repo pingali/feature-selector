@@ -12,8 +12,8 @@ setup(name="feature_selector",
             "lightgbm>=2.1.1",
             "matplotlib>=2.1.2",
             "seaborn>=0.8.1",
-            "numpy>=1.14.5",
-            "pandas>=0.23.1",
+            "numpy>=1.14.1",
+            "pandas>=0.22.0",
             "scikit-learn>=0.19.1"
             ],
         zip_safe=False)
